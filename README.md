@@ -9,7 +9,7 @@ Minh bạch dinh dưỡng: Tích hợp tính năng hiển thị thông số Calo
 AI gợi ý thông minh: Tích hợp trí tuệ nhân tạo để đề xuất món ăn phù hợp với sở thích, chế độ ăn uống và nhu cầu calo hàng ngày của người dùng
 
 Nhóm thực hiện:
-
+Nguyễn Thị Minh Thư 
 
 Hà Nguyễn Thái Vũ - 051206014028
 
@@ -42,7 +42,9 @@ Nguyễn Nhật Tiến
 - Đặt hàng
 - Địa chỉ giao hàng
 - Thanh toán
+- Khuyến mãi voucher
 - Theo dõi đơn hàng
+- Chat/ gọi điện tài xế 
 - Lịch sử đơn hàng
 - Đánh giá
 - Quản lý tài khoản
